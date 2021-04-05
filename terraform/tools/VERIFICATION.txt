@@ -1,0 +1,18 @@
+VERIFICATION
+
+Verification is intended to assist the Chocolatey moderators and community
+in verifying that this package's contents are trustworthy.
+
+Package can be verified like this:
+
+1. Go to
+
+   x64: https://releases.hashicorp.com/terraform/0.14.9/terraform_0.14.9_windows_amd64.zip
+
+   to download the zip package.
+
+2. You can use one of the following methods to obtain the checksum:
+   - Use powershell function 'Get-FileHash'
+   - Use Chocolatey utility 'checksum.exe'
+
+   checksum64: 8814AACBAB1E15C42A1F9F978401500EF8C33E4075F8A29A74E3A67A1A535E26

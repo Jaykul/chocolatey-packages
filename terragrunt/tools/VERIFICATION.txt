@@ -7,7 +7,7 @@ Package can be verified like this:
 
 1. Go to
 
-   x32: http://guysalias.tk/misc/less/less-487-win32-static-x86.7z.7z
+   x64: https://github.com/gruntwork-io/terragrunt/releases/download/v0.28.18/terragrunt_windows_amd64.exe
 
    to download the zip package.
 
@@ -15,4 +15,4 @@ Package can be verified like this:
    - Use powershell function 'Get-FileHash'
    - Use Chocolatey utility 'checksum.exe'
 
-   checksum32: 
+   checksum64: 56860540CA4B95FDCB739777829A4BA3A682C193F557D646E89576D46F20216B
